@@ -1,0 +1,221 @@
+{
+    "allData":{
+        "initData": {
+            "year": "2017",
+            "quarter": "4",
+            "institution": "全公司",
+            "riseCollectInfo": [
+                {
+                    "name": "操作风险事件",
+                    "current": 12,
+                    "last": 2,
+                    "trend": ""
+                },
+                {
+                    "name": "非损失事件",
+                    "current": 12,
+                    "last": 2,
+                    "trend": ""
+                },
+                {
+                    "name": "损失事件",
+                    "current": 12,
+                    "last": 2,
+                    "trend": ""
+                },
+                {
+                    "name": "最终损失金额（万元）",
+                    "current": 12,
+                    "last": 2,
+                    "trend": ""
+                },
+                {
+                    "name": "损失金额（万元）",
+                    "current": 12,
+                    "last": 2,
+                    "trend": ""
+                },
+                {
+                    "name": "回收金额（万元）",
+                    "current": 12,
+                    "last": 2,
+                    "trend": ""
+                }
+            ],
+            "lossEvents": [
+                {
+                    "name": "承保",
+                    "loss": 0,
+                    "nonloss": 0
+                },
+                {
+                    "name": "内控合规",
+                    "loss": 0,
+                    "nonloss": 1
+                },
+                {
+                    "name": "法律",
+                    "loss": 3,
+                    "nonloss": 1
+                },
+                {
+                    "name": "人事",
+                    "loss": 2,
+                    "nonloss": 5
+                },
+                {
+                    "name": "信息系统",
+                    "loss": 0,
+                    "nonloss": 1
+                },
+                {
+                    "name": "公司治理",
+                    "loss": 3,
+                    "nonloss": 1
+                },
+                {
+                    "name": "理赔",
+                    "loss": 2,
+                    "nonloss": 2
+                },
+                {
+                    "name": "销售",
+                    "loss": 0,
+                    "nonloss": 1
+                },
+                {
+                    "name": "再保",
+                    "loss": 3,
+                    "nonloss": 1
+                },
+                {
+                    "name": "资产管理",
+                    "loss": 2,
+                    "nonloss": 2
+                },
+                {
+                    "name": "财务管理",
+                    "loss": 0,
+                    "nonloss": 1
+                },
+                {
+                    "name": "精算",
+                    "loss": 3,
+                    "nonloss": 1
+                },
+                {
+                    "name": "审计",
+                    "loss": 2,
+                    "nonloss": 2
+                },
+                {
+                    "name": "风险管理",
+                    "loss": 2,
+                    "nonloss": 2
+                }
+            ],
+            "lossMoney": [
+                {
+                    "name": "承保",
+                    "proportion": "0.9",
+                    "index": 1
+                },
+                {
+                    "name": "内控合规",
+                    "proportion": "0.1",
+                    "index": 2
+                },
+                {
+                    "name": "法律",
+                    "proportion": "2.0",
+                    "index": 3
+                },
+                {
+                    "name": "人事",
+                    "proportion": "3.5",
+                    "index": 4
+                },
+                {
+                    "name": "信息系统",
+                    "proportion": "3.5",
+                    "index": 5
+                },
+                {
+                    "name": "公司治理",
+                    "proportion": "3.5",
+                    "index": 6
+                },
+                {
+                    "name": "理赔",
+                    "proportion": "3.5",
+                    "index": 7
+                },
+                {
+                    "name": "销售",
+                    "proportion": "3.5",
+                    "index": 8
+                }
+            ]
+        },
+        "infoData":{
+            "lossEventsDetail": [
+                {
+                    "happenInstitution": "总公司",
+                    "happenDate":"2017/10/27",
+                    "foundDate":"2017/11/27",
+                    "foundWay":"其他内部检查发现",
+                    "riskReason":"人员",
+                    "totalLoss":1443,
+                    "effectLevel":"重要"
+                },
+                {
+                    "happenInstitution": "总公司",
+                    "happenDate":"2017/10/27",
+                    "foundDate":"2017/11/27",
+                    "foundWay":"其他内部检查发现",
+                    "riskReason":"人员",
+                    "totalLoss":1443,
+                    "effectLevel":"重要"
+                }
+            ],
+            "lossMoneyDetail": [
+                {
+                    "happenInstitution": "江苏分公司",
+                    "happenDate":"2017/10/27",
+                    "foundDate":"2017/11/27",
+                    "foundWay":"业务自查发现",
+                    "riskReason":"信息系统",
+                    "totalLoss":10443,
+                    "effectLevel":"重要"
+                },
+                {
+                    "happenInstitution": "江苏分公司",
+                    "happenDate":"2017/10/27",
+                    "foundDate":"2017/11/27",
+                    "foundWay":"业务自查发现",
+                    "riskReason":"信息系统",
+                    "totalLoss":1982,
+                    "effectLevel":"重要"
+                },
+                {
+                    "happenInstitution": "总公司",
+                    "happenDate":"2017/10/27",
+                    "foundDate":"2017/11/27",
+                    "foundWay":"其他内部检查发现",
+                    "riskReason":"人员",
+                    "totalLoss":1443,
+                    "effectLevel":"重要"
+                },
+                {
+                    "happenInstitution": "总公司",
+                    "happenDate":"2017/10/27",
+                    "foundDate":"2017/11/27",
+                    "foundWay":"其他内部检查发现",
+                    "riskReason":"人员",
+                    "totalLoss":1443,
+                    "effectLevel":"重要"
+                }
+            ]
+        }
+    }
+}

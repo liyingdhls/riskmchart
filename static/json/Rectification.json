@@ -1,0 +1,73 @@
+{
+    "initData": {
+        "data": [
+            {
+                "name": "操作风险事件数量",
+                "left": 12,
+                "right": 6
+            },
+            {
+                "name": "整改事件数量",
+                "left": 7,
+                "right": 4
+            },
+            {
+                "name": "整改完成数量",
+                "left": 4,
+                "right": 3
+            }
+        ],
+        "rectifyData":{
+            "last":[
+                {
+                    "name": "整改率",
+                    "proportion": "60",
+                    "index": 1
+                },
+                {
+                    "name": "其它",
+                    "proportion": "40",
+                    "index": 2
+                }
+            ],
+            "current":[
+                {
+                    "name": "整改率",
+                    "proportion": "66.7",
+                    "index": 1
+                },
+                {
+                    "name": "其它",
+                    "proportion": "33.3",
+                    "index": 2
+                }
+            ]
+        },
+        "RectifyFinishData":{
+            "last":[
+                {
+                    "name": "整改完成率",
+                    "proportion": "63.8",
+                    "index": 1
+                },
+                {
+                    "name": "其它",
+                    "proportion": "36.2",
+                    "index": 2
+                }
+            ],
+            "current":[
+                {
+                    "name": "整改完成率",
+                    "proportion": "54.5",
+                    "index": 1
+                },
+                {
+                    "name": "其它",
+                    "proportion": "45.5",
+                    "index": 2
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,686 @@
+{
+    "allData":{
+        "initData":{
+            "riseReasonData":[
+                {
+                    "name": "人员",
+                    "currentTotal": 12111,
+                    "currentNonLossEvents": 12,
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastTotal": 2,
+                    "lastNonLossEvents": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                },
+                {
+                    "name": "内部程序",
+                    "currentTotal": 12,
+                    "currentNonLossEvents": 12,
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastTotal": 2,
+                    "lastNonLossEvents": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                },
+                {
+                    "name": "信息系统",
+                    "currentTotal": 12,
+                    "currentNonLossEvents": 12,
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastTotal": 2,
+                    "lastNonLossEvents": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                },
+                {
+                    "name": "外部事件",
+                    "currentTotal": 12,
+                    "currentNonLossEvents": 12,
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastTotal": 2,
+                    "lastNonLossEvents": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                },
+                {
+                    "name": "合计",
+                    "currentTotal": 12,
+                    "currentNonLossEvents": 12,
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastTotal": 2,
+                    "lastNonLossEvents": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                }
+            ],
+            "operationRise":[
+                {
+                    "name": "人员",
+                    "proportion": "50",
+                    "index": 1
+                },
+                {
+                    "name": "信息系统",
+                    "proportion": "33.3",
+                    "index": 2
+                },
+                {
+                    "name": "程序",
+                    "proportion": "16.7",
+                    "index": 3
+                },
+                {
+                    "name": "外部事件",
+                    "proportion": "0",
+                    "index": 4
+                }
+            ],
+            "nonLossEvents":[
+                {
+                    "name": "人员",
+                    "proportion": "33.3",
+                    "index": 1
+                },
+                {
+                    "name": "信息系统",
+                    "proportion": "33.3",
+                    "index": 2
+                },
+                {
+                    "name": "程序",
+                    "proportion": "33.3",
+                    "index": 3
+                },
+                {
+                    "name": "外部事件",
+                    "proportion": "0",
+                    "index": 4
+                }
+            ],
+            "lossEvents":[
+                {
+                    "name": "人员",
+                    "proportion": "66.7",
+                    "index": 1
+                },
+                {
+                    "name": "信息系统",
+                    "proportion": "33.3",
+                    "index": 2
+                },
+                {
+                    "name": "程序",
+                    "proportion": "0",
+                    "index": 3
+                },
+                {
+                    "name": "外部事件",
+                    "proportion": "0",
+                    "index": 4
+                }
+            ],
+            "lossMoney":[
+                {
+                    "name": "人员",
+                    "proportion": "24.2",
+                    "index": 1
+                },
+                {
+                    "name": "信息系统",
+                    "proportion": "75.8",
+                    "index": 2
+                },
+                {
+                    "name": "程序",
+                    "proportion": "0",
+                    "index": 3
+                },
+                {
+                    "name": "外部事件",
+                    "proportion": "0",
+                    "index": 4
+                }
+            ]
+        },
+        "eventsData":{
+        "eventsTypeData":[
+            {
+                "name": "内部欺诈",
+                "currentTotal": 12111,
+                "currentNonLossEvents": 12,
+                "currentLossEvents": 12,
+                "currentLossMoney": 12,
+                "lastTotal": 2,
+                "lastNonLossEvents": 12,
+                "lastLossEvents": 12,
+                "lastLossMoney": 12,
+                "trendEvents": 0,
+                "trendMoney": 0
+            },
+            {
+                "name": "外部欺诈",
+                "currentTotal": 12,
+                "currentNonLossEvents": 12,
+                "currentLossEvents": 12,
+                "currentLossMoney": 12,
+                "lastTotal": 2,
+                "lastNonLossEvents": 12,
+                "lastLossEvents": 12,
+                "lastLossMoney": 12,
+                "trendEvents": 0,
+                "trendMoney": 0
+            },
+            {
+                "name": "就业制度和工作场所安全事件",
+                "currentTotal": 12,
+                "currentNonLossEvents": 12,
+                "currentLossEvents": 12,
+                "currentLossMoney": 12,
+                "lastTotal": 2,
+                "lastNonLossEvents": 12,
+                "lastLossEvents": 12,
+                "lastLossMoney": 12,
+                "trendEvents": 0,
+                "trendMoney": 0
+            },
+            {
+                "name": "客户、产品和业务活动事件",
+                "currentTotal": 12,
+                "currentNonLossEvents": 12,
+                "currentLossEvents": 12,
+                "currentLossMoney": 12,
+                "lastTotal": 2,
+                "lastNonLossEvents": 12,
+                "lastLossEvents": 12,
+                "lastLossMoney": 12,
+                "trendEvents": 0,
+                "trendMoney": 0
+            },
+            {
+                "name": "实物资产的破坏",
+                "currentTotal": 12,
+                "currentNonLossEvents": 12,
+                "currentLossEvents": 12,
+                "currentLossMoney": 12,
+                "lastTotal": 2,
+                "lastNonLossEvents": 12,
+                "lastLossEvents": 12,
+                "lastLossMoney": 12,
+                "trendEvents": 0,
+                "trendMoney": 0
+            },
+            {
+                "name": "信息系统科技事件",
+                "currentTotal": 12,
+                "currentNonLossEvents": 12,
+                "currentLossEvents": 12,
+                "currentLossMoney": 12,
+                "lastTotal": 2,
+                "lastNonLossEvents": 12,
+                "lastLossEvents": 12,
+                "lastLossMoney": 12,
+                "trendEvents": 0,
+                "trendMoney": 0
+            },
+            {
+                "name": "执行、交易和流程事件",
+                "currentTotal": 12,
+                "currentNonLossEvents": 12,
+                "currentLossEvents": 12,
+                "currentLossMoney": 12,
+                "lastTotal": 2,
+                "lastNonLossEvents": 12,
+                "lastLossEvents": 12,
+                "lastLossMoney": 12,
+                "trendEvents": 0,
+                "trendMoney": 0
+            },
+            {
+                "name": "合计",
+                "currentTotal": 12,
+                "currentNonLossEvents": 12,
+                "currentLossEvents": 12,
+                "currentLossMoney": 12,
+                "lastTotal": 2,
+                "lastNonLossEvents": 12,
+                "lastLossEvents": 12,
+                "lastLossMoney": 12,
+                "trendEvents": 0,
+                "trendMoney": 0
+            }
+        ],
+        "operationRise":[
+            {
+                "name": "人员",
+                "proportion": "50",
+                "index": 1
+            },
+            {
+                "name": "信息系统",
+                "proportion": "33.3",
+                "index": 2
+            },
+            {
+                "name": "程序",
+                "proportion": "16.7",
+                "index": 3
+            },
+            {
+                "name": "外部事件",
+                "proportion": "0",
+                "index": 4
+            }
+        ],
+        "nonLossEvents":[
+            {
+                "name": "人员",
+                "proportion": "33.3",
+                "index": 1
+            },
+            {
+                "name": "信息系统",
+                "proportion": "33.3",
+                "index": 2
+            },
+            {
+                "name": "程序",
+                "proportion": "33.3",
+                "index": 3
+            },
+            {
+                "name": "外部事件",
+                "proportion": "0",
+                "index": 4
+            }
+        ],
+        "lossEvents":[
+            {
+                "name": "人员",
+                "proportion": "66.7",
+                "index": 1
+            },
+            {
+                "name": "信息系统",
+                "proportion": "33.3",
+                "index": 2
+            },
+            {
+                "name": "程序",
+                "proportion": "0",
+                "index": 3
+            },
+            {
+                "name": "外部事件",
+                "proportion": "0",
+                "index": 4
+            }
+        ],
+        "lossMoney":[
+            {
+                "name": "人员",
+                "proportion": "24.2",
+                "index": 1
+            },
+            {
+                "name": "信息系统",
+                "proportion": "75.8",
+                "index": 2
+            },
+            {
+                "name": "程序",
+                "proportion": "0",
+                "index": 3
+            },
+            {
+                "name": "外部事件",
+                "proportion": "0",
+                "index": 4
+            }
+        ]
+    },
+        "financeData":{
+            "financeLoss":[
+                {
+                    "name":"法律成本",
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                },
+                {
+                    "name":"机构监管罚没",
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                },
+                {
+                    "name":"个人监管罚没",
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                },
+                {
+                    "name":"资产损失",
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                },{
+                    "name":"对外赔偿",
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                },
+                {
+                    "name":"追索失效",
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                },
+                {
+                    "name":"账面减值",
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                },
+                {
+                    "name":"其它财务损失",
+                    "currentLossEvents": 12,
+                    "currentLossMoney": 12,
+                    "lastLossEvents": 12,
+                    "lastLossMoney": 12,
+                    "trendEvents": 0,
+                    "trendMoney": 0
+                }
+            ],
+            "lossEvents":[
+                {
+                    "name": "法律成本",
+                    "proportion": "31.3",
+                    "index": 1
+                },
+                {
+                    "name": "机构监管罚没",
+                    "proportion": "31.3",
+                    "index": 2
+                },
+                {
+                    "name": "个人监管罚没",
+                    "proportion": "18.8",
+                    "index": 3
+                },
+                {
+                    "name": "资产损失",
+                    "proportion": "6.3",
+                    "index": 4
+                },{
+                    "name": "对外赔偿",
+                    "proportion": "6.3",
+                    "index": 5
+                },
+                {
+                    "name": "追索失效",
+                    "proportion": "6.3",
+                    "index": 6
+                },
+                {
+                    "name": "账面减值",
+                    "proportion": "0",
+                    "index": 7
+                },
+                {
+                    "name": "其它财务损失",
+                    "proportion": "0",
+                    "index": 8
+                }
+            ],
+            "lossMoney":[
+                {
+                    "name": "法律成本",
+                    "proportion": "25",
+                    "index": 1
+                },
+                {
+                    "name": "机构监管罚没",
+                    "proportion": "25",
+                    "index": 2
+                },
+                {
+                    "name": "个人监管罚没",
+                    "proportion": "25",
+                    "index": 3
+                },
+                {
+                    "name": "资产损失",
+                    "proportion": "25",
+                    "index": 4
+                },{
+                    "name": "对外赔偿",
+                    "proportion": "0",
+                    "index": 5
+                },
+                {
+                    "name": "追索失效",
+                    "proportion": "0",
+                    "index": 6
+                },
+                {
+                    "name": "账面减值",
+                    "proportion": "0",
+                    "index": 7
+                },
+                {
+                    "name": "其它财务损失",
+                    "proportion": "0",
+                    "index": 8
+                }
+            ]
+        },
+        "nonFinanceData":{
+            "nonfinanceLoss":[
+                {
+                    "name":"合法合规",
+                    "currentLight": 12,
+                    "currentGeneral": 12,
+                    "currentImportant":12,
+                    "currentSerious":14,
+                    "currentDisaster":1,
+                    "currentSum":50,
+                    "lastLight": 12,
+                    "lastGeneral": 12,
+                    "lastImportant": 12,
+                    "lastSerious": 12,
+                    "lastDisaster": 12,
+                    "lastSum": 12,
+                    "trendSum": 0
+                },
+                {
+                    "name":"经营效率及效果",
+                    "currentLight": 12,
+                    "currentGeneral": 12,
+                    "currentImportant":12,
+                    "currentSerious":14,
+                    "currentDisaster":1,
+                    "currentSum":50,
+                    "lastLight": 12,
+                    "lastGeneral": 12,
+                    "lastImportant": 12,
+                    "lastSerious": 12,
+                    "lastDisaster": 12,
+                    "lastSum": 12,
+                    "trendSum": 0
+                },
+                {
+                    "name":"信息披露",
+                    "currentLight": 12,
+                    "currentGeneral": 12,
+                    "currentImportant":12,
+                    "currentSerious":14,
+                    "currentDisaster":1,
+                    "currentSum":50,
+                    "lastLight": 12,
+                    "lastGeneral": 12,
+                    "lastImportant": 12,
+                    "lastSerious": 12,
+                    "lastDisaster": 12,
+                    "lastSum": 12,
+                    "trendSum": 0
+                },
+                {
+                    "name":"声誉影响",
+                    "currentLight": 12,
+                    "currentGeneral": 12,
+                    "currentImportant":12,
+                    "currentSerious":14,
+                    "currentDisaster":1,
+                    "currentSum":50,
+                    "lastLight": 12,
+                    "lastGeneral": 12,
+                    "lastImportant": 12,
+                    "lastSerious": 12,
+                    "lastDisaster": 12,
+                    "lastSum": 12,
+                    "trendSum": 0
+                },{
+                    "name":"数据及信息系统",
+                    "currentLight": 12,
+                    "currentGeneral": 12,
+                    "currentImportant":12,
+                    "currentSerious":14,
+                    "currentDisaster":1,
+                    "currentSum":50,
+                    "lastLight": 12,
+                    "lastGeneral": 12,
+                    "lastImportant": 12,
+                    "lastSerious": 12,
+                    "lastDisaster": 12,
+                    "lastSum": 12,
+                    "trendSum": 0
+                },
+                {
+                    "name":"其他非财务影响方面",
+                    "currentLight": 12,
+                    "currentGeneral": 12,
+                    "currentImportant":12,
+                    "currentSerious":14,
+                    "currentDisaster":1,
+                    "currentSum":50,
+                    "lastLight": 12,
+                    "lastGeneral": 12,
+                    "lastImportant": 12,
+                    "lastSerious": 12,
+                    "lastDisaster": 12,
+                    "lastSum": 12,
+                    "trendSum": 0
+                },
+                {
+                    "name":"合计",
+                    "currentLight": 12,
+                    "currentGeneral": 12,
+                    "currentImportant":12,
+                    "currentSerious":14,
+                    "currentDisaster":1,
+                    "currentSum":50,
+                    "lastLight": 12,
+                    "lastGeneral": 12,
+                    "lastImportant": 12,
+                    "lastSerious": 12,
+                    "lastDisaster": 12,
+                    "lastSum": 12,
+                    "trendSum": 0
+                }
+            ],
+            "levelDistribution":[
+                {
+                    "name": "轻微",
+                    "proportion": "31.3",
+                    "index": 1
+                },
+                {
+                    "name": "一般",
+                    "proportion": "31.3",
+                    "index": 2
+                },
+                {
+                    "name": "重要",
+                    "proportion": "18.8",
+                    "index": 3
+                },
+                {
+                    "name": "严重",
+                    "proportion": "6.3",
+                    "index": 4
+                },{
+                    "name": "灾难性",
+                    "proportion": "6.3",
+                    "index": 5
+                }
+            ],
+            "eventsProportion":[
+                {
+                    "name": "合法合规",
+                    "proportion": "25",
+                    "index": 6
+                },
+                {
+                    "name": "经营效率及效果",
+                    "proportion": "25",
+                    "index": 7
+                },
+                {
+                    "name": "信息披露",
+                    "proportion": "25",
+                    "index": 8
+                },
+                {
+                    "name": "声誉影响",
+                    "proportion": "25",
+                    "index": 9
+                },{
+                    "name": "数据及信息系统",
+                    "proportion": "0",
+                    "index": 10
+                },
+                {
+                    "name": "其他非财务影响方面",
+                    "proportion": "0",
+                    "index": 11
+                }
+            ]
+        }
+    }
+}

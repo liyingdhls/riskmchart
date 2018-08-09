@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="46px" viewBox="0 0 20 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>pic_qdkh_yxkh_man@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="21.2426972%" x2="100%" y2="67.436957%" id="linearGradient-1">
+            <stop stop-color="#86EACD" offset="0%"></stop>
+            <stop stop-color="#3FC391" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="8.0客户资源+切" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8.0客户资源-渠道有效总体客户" transform="translate(-95.000000, -1022.000000)" fill-rule="nonzero" fill="url(#linearGradient-1)">
+            <g id="Group-8" transform="translate(30.000000, 531.000000)">
+                <g id="Group-13" transform="translate(20.000000, 226.000000)">
+                    <g id="Group" transform="translate(45.000000, 265.000000)">
+                        <path d="M9.67279586,8.47368421 L6.86770937,8.47368421 C4.17927857,8.47368421 2,10.6529628 2,13.3413936 L2,28.1282088 L6.19894549,28.1282088 L6.19894549,45.676573 L14.7475313,45.676573 L14.7475313,28.1282088 L18.9473684,28.1282088 L18.9473684,13.3413936 C18.9473684,10.6529628 16.7680007,8.47368421 14.0796591,8.47368421 L11.274361,8.47368421 C13.2519348,8.09880036 14.7474421,6.36133831 14.7474421,4.27473873 C14.7474421,1.91355638 12.8339749,0 10.473595,0 C8.11330439,0 6.19885632,1.91355638 6.19885632,4.27473873 C6.19885632,6.36133831 7.69506044,8.09880036 9.67279586,8.47368421 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

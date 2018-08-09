@@ -1,0 +1,156 @@
+{
+    "allData":{
+        "initData":[
+            {
+                "institution":"北京分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"天津分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"河北分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },{
+                "institution":"山西分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"内蒙古分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"辽宁分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"大连分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },{
+                "institution":"吉林分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"黑龙江分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"上海分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"浙江分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },{
+                "institution":"宁波分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"安徽分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"福建分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"厦门分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },{
+                "institution":"江西分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"河南分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"湖北分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"湖南分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },{
+                "institution":"湖南分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"深圳分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"广西分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },
+            {
+                "institution":"海南分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            },{
+                "institution":"重庆分公司",
+                "lossEvents":12,
+                "lossMoney":45
+            }
+
+        ],
+        "lossEvents":[
+            {"name": "北京","value": 0 },{"name": "天津","value": 2 },
+            {"name": "上海","value": 5 },{"name": "重庆","value": 7 },
+            {"name": "河北","value": 10 },{"name": "河南","value": 15 },
+            {"name": "云南","value": 20 },{"name": "辽宁","value": 25 },
+            {"name": "黑龙江","value": 30 },{"name": "湖南","value": 35 },
+            {"name": "安徽","value": 40 },{"name": "山东","value": 45 },
+            {"name": "新疆","value": 50 },{"name": "江苏","value": 43 },
+            {"name": "浙江","value": 33 },{"name": "江西","value": 76 },
+            {"name": "湖北","value": 67 },{"name": "广西","value": 88 },
+            {"name": "甘肃","value": 56 },{"name": "山西","value": 0 },
+            {"name": "内蒙古","value": 0 },{"name": "陕西","value": 23 },
+            {"name": "吉林","value": 1 },{"name": "福建","value": 12 },
+            {"name": "贵州","value": 23 },{"name": "广东","value": 33 }
+        ],
+        "lossMoney":[
+            {"name": "北京","value": 0.2 },{"name": "天津","value": 2.2 },
+            {"name": "上海","value": 5 },{"name": "重庆","value": 7 },
+            {"name": "河北","value": 10 },{"name": "河南","value": 15 },
+            {"name": "云南","value": 20 },{"name": "辽宁","value": 25 },
+            {"name": "黑龙江","value": 30 },{"name": "湖南","value": 35 },
+            {"name": "安徽","value": 40 },{"name": "山东","value": 45 },
+            {"name": "新疆","value": 50.4 },{"name": "江苏","value": 4.43 },
+            {"name": "浙江","value": 33 },{"name": "江西","value": 76 },
+            {"name": "湖北","value": 67.2 },{"name": "广西","value": 88 },
+            {"name": "甘肃","value": 56 },{"name": "山西","value": 0 },
+            {"name": "内蒙古","value": 0.6 },{"name": "陕西","value": 23.3 },
+            {"name": "吉林","value": 1 },{"name": "福建","value": 12 },
+            {"name": "贵州","value": 23 },{"name": "广东","value": 33 },
+            {"name": "青海","value": 2 },{"name": "西藏","value": 0 },
+            {"name": "四川","value": 45 },{"name": "宁夏","value": 55 },
+            {"name": "海南","value": 66 },{"name": "台湾","value": 5 },
+            {"name": "香港","value": 0 },{"name": "澳门","value": 0 }
+
+        ]
+    }
+}
