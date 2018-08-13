@@ -144,16 +144,6 @@
                     "name": "公司治理",
                     "proportion": "3.5",
                     "index": 6
-                },
-                {
-                    "name": "理赔",
-                    "proportion": "3.5",
-                    "index": 7
-                },
-                {
-                    "name": "销售",
-                    "proportion": "3.5",
-                    "index": 8
                 }
             ]
         },
